@@ -47,7 +47,7 @@ Schedule the script to run at whatever interval you would like to publish mertri
 
 To run the script simply issue one of the following commands.
 
-Supply arguments via environment variables:
+**Supply arguments via environment variables:**
 
 `export rubrik_mosaic_node_ip=192.168.1.100`
 
@@ -61,7 +61,7 @@ Supply arguments via environment variables:
 
 `Python rubrik-mosaic-datadog-metrics.py`
 
-Supply arguments at runtime:
+**Supply arguments at runtime:**
 
 `Python rubrik-mosaic-datadog-metrics.py -api API_KEY -app APP_KEY -i 192.168.1.100 -u USERNAME -p PASSWORD`
 
