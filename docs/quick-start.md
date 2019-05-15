@@ -45,14 +45,18 @@ Schedule the script to run at whatever interval you would like to publish mertri
 * mosaic.node_ip.secondary_storage_consumed
 * mosaic.node_ip.backup_count
 
-To run the script simply issue one of the following commands:
+To run the script simply issue one of the following commands.
 
 Supply arguments via environment variables:
 
 `export rubrik_mosaic_node_ip=192.168.1.100`
+
 `export rubrik_mosaic_username=admin`
+
 `export rubrik_mosaic_password=admin`
+
 `export datadog_api_key=1234567890abcdefghijklmnopqrstuv`
+
 `export datadog_app_key=1234567890abcdefghijklmnopqrstuvwxyz1234`
 
 `Python rubrik-mosaic-datadog-metrics.py`
