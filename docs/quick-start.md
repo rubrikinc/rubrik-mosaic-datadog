@@ -1,4 +1,4 @@
-# Quick Start Guide: Rubrik Mosiac Datadog Integration
+# Quick Start Guide: Rubrik Mosiac Integration for Datadog
 
 Rubrik’s API first architecture enables organizations to embrace and integrate Rubrik functionality into their existing automation processes. This includes integration with services offered by modern monitoring & analytics platforms like Datadog. 
 
