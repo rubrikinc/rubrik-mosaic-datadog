@@ -59,11 +59,11 @@ To run the script simply issue one of the following commands.
 
 `export datadog_app_key=1234567890abcdefghijklmnopqrstuvwxyz1234`
 
-`Python rubrik-mosaic-datadog-metrics.py`
+`python rubrik-mosaic-datadog-metrics.py`
 
 **Supply arguments at runtime:**
 
-`Python rubrik-mosaic-datadog-metrics.py -api API_KEY -app APP_KEY -i 192.168.1.100 -u USERNAME -p PASSWORD`
+`python rubrik-mosaic-datadog-metrics.py -api API_KEY -app APP_KEY -i 192.168.1.100 -u USERNAME -p PASSWORD`
 
 If you have additional metrics you would like to report on, please submit an issue on this repository!
 
